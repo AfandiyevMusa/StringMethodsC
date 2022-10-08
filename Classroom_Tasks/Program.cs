@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Text;
+using Internal;
 
 namespace Classroom_Tasks
 {
@@ -7,6 +8,37 @@ namespace Classroom_Tasks
     {
         static void Main(string[] args)
         {
+            //Task_001
+
+            string example1 = "Mathematics";
+
+            if (example1.Contains("a"))
+            {
+                Console.WriteLine("true");
+            }
+            else
+            {
+                Console.WriteLine("false");
+            }
+
+            //Task_002
+
+            string example2 = "Hello World";
+            string example3 = "Hello";
+            Console.WriteLine(example2.CompareTo(example3));
+
+            ////Task_003
+            Console.WriteLine(example2.Clone());
+
+            ////Task_004
+            Console.WriteLine(example3.Insert(5, " CodeAcademy"));
+
+            ////Task_005
+            Console.WriteLine(example3.Substring(1, 3));
+
+
+
+
             ////Task_1 (10----10)
 
             //int a = 10;
@@ -171,35 +203,6 @@ namespace Classroom_Tasks
             //    Console.WriteLine("No");
             //}
 
-
-            //Task_001
-
-            string example1 = "Mathematics";
-
-            if (example1.Contains("a"))
-            {
-                Console.WriteLine("true");
-            }
-            else
-            {
-                Console.WriteLine("false");
-            }
-
-            //Task_002
-
-            string example2 = "Hello World";
-            string example3 = "Hello";
-            Console.WriteLine(example2.CompareTo(example3));
-
-            ////Task_003
-            Console.WriteLine(example2.Clone());
-
-            ////Task_004
-            Console.WriteLine(example3.Insert(5, " CodeAcademy"));
-
-            ////Task_005
-            Console.WriteLine(example3.Substring(1,3));
-
         }
             ////Task_5 and Task_6
 
@@ -233,9 +236,6 @@ namespace Classroom_Tasks
             //    str = "Physics";
             //    Console.WriteLine(str);
             //}
-
-
-        
     }
 
 }
