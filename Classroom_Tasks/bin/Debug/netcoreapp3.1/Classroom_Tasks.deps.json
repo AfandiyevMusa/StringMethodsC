@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Classroom_Tasks/1.0.0": {
+        "runtime": {
+          "Classroom_Tasks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Classroom_Tasks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

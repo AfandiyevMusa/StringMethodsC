@@ -1,0 +1,14 @@
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Classroom_Tasks/Classroom_Tasks/bin/Debug/netcoreapp3.1/Classroom_Tasks
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Classroom_Tasks/Classroom_Tasks/bin/Debug/netcoreapp3.1/Classroom_Tasks.deps.json
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Classroom_Tasks/Classroom_Tasks/bin/Debug/netcoreapp3.1/Classroom_Tasks.runtimeconfig.json
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Classroom_Tasks/Classroom_Tasks/bin/Debug/netcoreapp3.1/Classroom_Tasks.runtimeconfig.dev.json
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Classroom_Tasks/Classroom_Tasks/bin/Debug/netcoreapp3.1/Classroom_Tasks.dll
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Classroom_Tasks/Classroom_Tasks/bin/Debug/netcoreapp3.1/Classroom_Tasks.pdb
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Classroom_Tasks/Classroom_Tasks/obj/Debug/netcoreapp3.1/Classroom_Tasks.csproj.AssemblyReference.cache
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Classroom_Tasks/Classroom_Tasks/obj/Debug/netcoreapp3.1/Classroom_Tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Classroom_Tasks/Classroom_Tasks/obj/Debug/netcoreapp3.1/Classroom_Tasks.AssemblyInfoInputs.cache
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Classroom_Tasks/Classroom_Tasks/obj/Debug/netcoreapp3.1/Classroom_Tasks.AssemblyInfo.cs
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Classroom_Tasks/Classroom_Tasks/obj/Debug/netcoreapp3.1/Classroom_Tasks.csproj.CoreCompileInputs.cache
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Classroom_Tasks/Classroom_Tasks/obj/Debug/netcoreapp3.1/Classroom_Tasks.dll
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Classroom_Tasks/Classroom_Tasks/obj/Debug/netcoreapp3.1/Classroom_Tasks.pdb
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Classroom_Tasks/Classroom_Tasks/obj/Debug/netcoreapp3.1/Classroom_Tasks.genruntimeconfig.cache
